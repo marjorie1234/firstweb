@@ -1,0 +1,36 @@
+/*************************** TAG SELECTORS**********/
+
+body{
+background-color: #F3C583;
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_Peru_%28state%29.svg/2560px-Flag_of_Peru_%28state%29.svg.png);
+text-align: center;
+font-size: large;
+background-size:cover;
+
+}
+
+h1{
+  color: #0A1D37;
+font-family: "Brush Script MT", cursive;}
+
+img{
+  background-color:black;
+  width: 500px;
+  height:300px;
+  background-color: black;
+}
+
+
+/*************************** CLASS SELECTORS**********/
+.sunrise{
+  background-color: red;
+}
+/*************************** CLASS SELECTORS**********/
+#heading{
+  color: blue;
+}
+/*************************** CLASS SELECTORS**********/
+.Farmers{
+  background-color: #F5F7B2;
+  
+}
